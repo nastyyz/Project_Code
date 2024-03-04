@@ -1,2 +1,1 @@
-# Project_Code
-Using Face recognization attendance system
+# face_recognition_flask
